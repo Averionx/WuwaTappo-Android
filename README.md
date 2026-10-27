@@ -59,7 +59,7 @@
 
 安装包文件名：`Wuwa-Tappo-Android-1.0-arm64-v8a.apk`。
 
-安装包计划提供在本仓库的 [Releases](https://github.com/Averionx/WuwaTappo-Android/releases) 页面。**目前先公开项目介绍与使用说明，APK 和完整源码尚未上传，请勿把空的 Releases 页面当作下载故障。** 本地测试 APK 已包含桌宠素材，使用者不需要下载整个源码文件夹。
+**[查看 1.0 发布页](https://github.com/Averionx/WuwaTappo-Android/releases/tag/v1.0)**。当前发布页已建立，但现有 APK 为此前测试构建；修复版 APK、对应源码和校验文件正在补传。补传完成后，本页会给出匹配的直接下载链接。APK 内置全图鉴素材，使用者不需要下载整个源码文件夹，也无需手动导入素材。
 
 1. 将 APK 下载或传到手机上，用文件管理器打开安装。
 2. 如果系统提示不允许安装未知应用，按系统指引允许当前打开 APK 的浏览器或文件管理器安装应用。
