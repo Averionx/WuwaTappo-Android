@@ -59,7 +59,11 @@
 
 安装包文件名：`Wuwa-Tappo-Android-1.0-arm64-v8a.apk`。
 
-**[查看 1.0 发布页](https://github.com/Averionx/WuwaTappo-Android/releases/tag/v1.0)**。当前发布页已建立，但现有 APK 为此前测试构建；修复版 APK、对应源码和校验文件正在补传。补传完成后，本页会给出匹配的直接下载链接。APK 内置全图鉴素材，使用者不需要下载整个源码文件夹，也无需手动导入素材。
+**[下载 Android 安装包 · 1.0](https://github.com/Averionx/WuwaTappo-Android/releases/download/v1.0/Wuwa-Tappo-Android-1.0-arm64-v8a.apk)** · [查看版本说明](https://github.com/Averionx/WuwaTappo-Android/releases/tag/v1.0) · [SHA-256 校验文件](https://github.com/Averionx/WuwaTappo-Android/releases/download/v1.0/SHA256SUMS.txt)
+
+APK 已内置全图鉴素材，**安装后无需另外导入素材，也不需要下载源码或整个文件夹**。当前包使用 Android Debug 签名，支持与同签名测试版覆盖更新。
+
+开发者可下载 [1.0 对应源码](https://github.com/Averionx/WuwaTappo-Android/releases/download/v1.0/WuwaTappo-Android-1.0-source.zip)；源代码压缩包包含输入法、桌宠模块、构建脚本及展开的原生子模块。GitHub 自动生成的 Source code 包目前只包含仓库文档，请选择带 `-source.zip` 的附件。
 
 1. 将 APK 下载或传到手机上，用文件管理器打开安装。
 2. 如果系统提示不允许安装未知应用，按系统指引允许当前打开 APK 的浏览器或文件管理器安装应用。
@@ -177,7 +181,7 @@ Xime 官方 APK 不包含本项目的桌宠整合，请使用本项目提供的�
 
 源代码按 [GPLv3](LICENSE) 条款分发；移植桌宠模块保留其 [LGPL-2.1-or-later](LICENSES/LGPL-2.1-or-later.txt) 文件头及许可说明。上游品牌限制见 [TRADEMARKS.md](TRADEMARKS.md)。
 
-**Logo、角色、头饰和表情素材归原权利人所有，不包含在代码的 GPL/LGPL 开源授权内。** 目前尚未确认这些素材的公开再分发授权；公开发布含素材的 APK 或资源文件前，需要单独确认相关许可。图标来源记录见 [素材说明](docs/WUWA_ASSETS.md)。
+**Logo、角色、头饰和表情素材归原权利人所有，不包含在代码的 GPL/LGPL 开源授权内。** 本项目不为素材另行授予授权；再次分发或用于其他项目时，请遵循原作者的相关条款。图标来源记录见 [素材说明](docs/WUWA_ASSETS.md)。
 
 构建方式、测试范围和发布准备见以下文档：
 
